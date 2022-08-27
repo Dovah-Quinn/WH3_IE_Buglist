@@ -3,7 +3,7 @@
 
 ## Foreword
 
-The following is a collection of bugs that I have accumulated over the last week playing immortal empires. Each bug will be split by race, and then listed in no particular order. Attached to each is an image where possible and my believed impact of the bug based on the following criteria:
+The following is a collection of bugs that I have accumulated over the last week playing immortal empires. Each section opf bugs will be split by the race by which the bug was found, and then listed in no particular order. Attached to each is an image where possible and my believed impact of the bug based on the following criteria:
 
 1. **Minor:** Bugs that are purely cosmetic or have minimal impact on gameplay or its quality of life.
 2. **Major:** Bugs that have an direct negative impact on the gameplay experience or QoL, often by forcing the player to act around it.
@@ -41,3 +41,11 @@ The following is a collection of bugs that I have accumulated over the last week
 10. When an artillery unit newly is ordered to man their equipment, a move order mistakes each crewman as an individual artillery piece. **Impact: Minor (Cosmetic)**
 
     ![Artillery Manning Bug:](Images/Empire_bug_10.png)
+
+11. Vampire Count major settlements (In this example, Castle Templehof) appear to have missing assets and building parts floating in mid air. **Impact: Minor (Cosmetic)**
+
+    ![VC building bug:](Images/Empire_bug_11.png)
+
+## Warriors of Chaos
+
+***WIP; Currently running a Decadent Host Campaign***
