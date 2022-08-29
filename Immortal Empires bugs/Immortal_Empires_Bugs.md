@@ -48,4 +48,17 @@ The following is a collection of bugs that I have accumulated over the last week
 
 ## Warriors of Chaos
 
-***WIP; Currently running a Decadent Host Campaign***
+1. Authority tracker doesn't seem to work correctly beyond a certain point: Once your authority exceeds 10, the tracker on the lord UI doesn't go any further. The tracker within the warband upgrade still works fine. **Impact: Minor (Cosmetic)**
+    
+    ![Authority bug:](Images/Warriors_bug_1.png)
+
+2. Technology requirement to upgrade to marked forsaken is incorrect: The mark of slaanesh should require 'Sensuous branding iron' but instead requires rusted, which is the tech requirement for nurgle:
+
+    ![Forsaken upgrade bug exhibit a](Images/Warriors_bug_2a.png)
+
+    Conversely, the upgrade for nurgle forsaken requires sensuous instead of rusted (Hence why it is available for Sigvald:)
+
+    ![Forsaken upgrade bug exhibit b](Images/Warriors_bug_2b.png)
+    ![Forsaken upgrade tech bug](Images/Warriors_bug_2c.png)
+
+    **Impact: Major (Affects Gameplay)**
