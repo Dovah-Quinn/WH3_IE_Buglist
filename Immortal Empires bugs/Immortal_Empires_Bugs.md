@@ -62,3 +62,9 @@ The following is a collection of bugs that I have accumulated over the last week
     ![Forsaken upgrade tech bug](Images/Warriors_bug_2c.png)
 
     **Impact: Major (Affects Gameplay)**
+
+## Dwarfs
+
+1. Karak Kadrin has an incorrect starting Grudge: The grudge is clearly supposed to be on a vampire counts faction, but instead targets Zhufbar **Impact Major (Affects gameplay)**
+
+    ![Dawi Grudge bug:](Images/Dwarfs_bug_1.png)
