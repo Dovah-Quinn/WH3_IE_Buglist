@@ -174,3 +174,9 @@ The following is a collection of bugs that I have accumulated over the last week
 2. Model viewer for the Frost Maiden seems to be rendering the sword incorrectly, it is behind her rather than in her hand: **Impact: Minor (cosmetic)**
 
     ![Frost maiden bug:](Images/Kislev_bug_2.png)
+
+## Skaven
+
+1. In Multiplayer, declining ai threats and subsequently triggering a war will cause the game to crash for all players. This was observed in a game with two opposing teams. The game froze showing two factions in a dilemma at the same time. **Impact: Crtitcal (game crashes)** ***PATCH 2.1.1***
+
+     ![Skaven crash bug:](Images/Skaven_bug_1.png)
